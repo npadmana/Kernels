@@ -1,0 +1,7 @@
+Chapel has a Stencil distribution; however, as an example, we 
+write our own version. Since the PRK is defined for a 2D array, 
+we will focus on that case here.
+
+We'll also focus on star-type stencils, although generalizing this 
+is certainly possible. 
+
